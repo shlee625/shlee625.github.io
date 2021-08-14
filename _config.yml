@@ -1,9 +1,9 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: JUST DO IT!
+description: My Research Blog
 
-url: http://long-haul.netlify.app
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+url: https://shlee625.github.io
+paginate_path: "/page:num/"
+permalink: /:title/
 
 # Header Option
 # header: large
@@ -11,24 +11,24 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 10
 
 navigation:
   - title: Home
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+  - title: Archives
+    url: /archives
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: shlee625
+  twitter: 
+  facebook: 
+  email: sanghyuk.lee625@gmail.com
+  linkedin: sanghyuklee625
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: sanghyuk lee

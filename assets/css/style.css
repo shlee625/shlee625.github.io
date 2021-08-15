@@ -960,6 +960,10 @@ dd{
   margin:0 0 .5em;
 }
 
+.posts-without-bar .posts li:before{
+  content: "";
+}
+
 @media (prefers-color-scheme:dark){
   body{
       background-color: var(--background-color)

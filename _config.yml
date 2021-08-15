@@ -2,8 +2,8 @@ title: JUST DO IT!
 description: My Research Blog
 
 url: https://shlee625.github.io
-paginate_path: "/page:num/"
-permalink: /:title/
+paginate_path: "/posts/page:num/"
+permalink: /posts/:title/
 
 # Header Option
 # header: large
@@ -15,9 +15,11 @@ paginate: 10
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /
   - title: About
     url: /about
+  - title: Posts
+    url: /posts
   - title: Archives
     url: /archives
 
@@ -32,6 +34,3 @@ google_analytics: "UA-58263416-1"
 
 disqus:
     shortname: sanghyuk lee
-
-exclude:
-  - pre-posts

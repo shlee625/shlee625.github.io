@@ -4,7 +4,7 @@ title: Just Do It! - About
 ---
 
 
-<div class="posts-without-bar">
+<div class="post">
     <h1 class="pageTitle">About Me</h1>
     <!-- <img src="{{ '/assets/img/pool.jpeg' }}" alt=""> -->
     <p>I'm a M.S. student at <a href="http://cvip.inha.ac.kr" target="_blank">Computer Vision and Image Processing Lab</a> in Inha University, South Korea. I research on deep learning and computer vision.</p>

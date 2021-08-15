@@ -10,6 +10,7 @@
   --darker-primary-color: #6272a4;
   --background-color: #282a36;
   --foreground-color: #44475a;
+  --background-image: url(../img/milkyway.jpg);
 }
 
 html{
@@ -687,7 +688,7 @@ dd{
 .header{
   /* background-color:#2e8b57; */
   background-color: var(--primary-color);
-  background-image:url(../img/night.jpg);
+  background-image: var(--background-image);
   background-size:cover;
   background-position:50%;
   color:#000;

@@ -5,6 +5,7 @@ author: Sanghyuk Lee
 url: https://shlee625.github.io
 paginate_path: "/posts/page:num/"
 permalink: /posts/:title/
+main_image: /assets/img/milkyway.jpg
 
 # Header Option
 # header: large

@@ -687,7 +687,7 @@ dd{
 .header{
   /* background-color:#2e8b57; */
   background-color: var(--primary-color);
-  background-image:url(../img/touring.jpg);
+  background-image:url(../img/night.jpg);
   background-size:cover;
   background-position:50%;
   color:#000;

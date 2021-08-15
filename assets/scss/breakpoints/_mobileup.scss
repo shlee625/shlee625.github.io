@@ -1,6 +1,7 @@
 /***************
 GLOBAL STYLES
 ***************/
+$background-image: url('../img/milkyway.jpg');
 
 html {
   box-sizing: border-box;
@@ -177,7 +178,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/touring.jpg');
+	background-image: $background-image;
 	background-size: cover;
 	background-position: center center;
 	color: white;

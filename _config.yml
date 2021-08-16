@@ -12,7 +12,9 @@ permalink: /posts/:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
 paginate: 10
 
 navigation:

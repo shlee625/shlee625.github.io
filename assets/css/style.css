@@ -960,8 +960,15 @@ dd{
   margin:0 0 .5em;
 }
 
-.posts-without-bar .posts li:before{
+.posts-without-bar li:before{
   content: "";
+}
+
+.posts-without-bar li .date{
+  color:gray;
+  font-family:Open Sans,Helvetica,Arial,sans-serif;
+  font-weight:300;
+  font-size:.8em
 }
 
 @media (prefers-color-scheme:dark){
@@ -970,6 +977,10 @@ dd{
   }
   .posts li .date,body{
       color:#fff
+  }
+
+  .posts-without-bar li .date,body{
+    color:#fff;
   }
   .postNav{
       border-top:1px solid var(--foreground-color);

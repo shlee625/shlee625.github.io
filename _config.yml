@@ -3,7 +3,7 @@ description: Research Blog with Paper Reviews
 author: Sanghyuk Lee
 thumbnail: /assets/img/coast.jpg
 
-url: https://shlee625.github.io
+url: https://shlee625.github.io/
 paginate_path: "/posts/page:num/"
 permalink: /posts/:title/
 

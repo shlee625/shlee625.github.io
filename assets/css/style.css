@@ -687,7 +687,7 @@ dd{
 
 .header{
   /* background-color:#2e8b57; */
-  background-color: var(--primary-color);
+  /* background-color: var(--primary-color); */
   background-image: var(--background-image);
   background-size:cover;
   background-position:50%;
@@ -1002,10 +1002,10 @@ dd{
     position:absolute;
     top:-2em;
     left:0;
-    -webkit-transform:skewY(-2deg);
+    /* -webkit-transform:skewY(-2deg);
     transform:skewY(-2deg);
     -webkit-transform-origin:bottom left;
-    transform-origin:bottom left;
+    transform-origin:bottom left; */
   }
   
   .container{

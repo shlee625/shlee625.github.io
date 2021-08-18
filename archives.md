@@ -12,7 +12,7 @@ title: Just Do It! - Archives
       {% if post.category == "GAN" %}
         <li>
           <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-          <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+          <span class="date">&nbsp;{{ post.date | date: '%B %d, %Y' }}</span>
         </li>
       {% endif %}
     {%- endfor -%}

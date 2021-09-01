@@ -48,6 +48,6 @@ title: Just Do It! - About
         <li>Email: <a href="mailto:sanghyuk.lee625@gmail.com">sanghyuk.lee625@gmail.com</a></li>
         <li>GitHub: <a href="https://github.com/shlee625" target="_blank">https://github.com/shlee625</a></li>
         <li>Google Scholar: <a href="https://scholar.google.com/citations?user=sclHhEAAAAAJ" target="_blank">author page</a></li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/sanghyuklee625" target="_blank">https://linkedin.com/in/sanghyuklee625</a></li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/sanghyuklee625" target="_blank">https://linkedin.com/in/shlee625</a></li>
     </ul>
 </div>

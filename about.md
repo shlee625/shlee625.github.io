@@ -16,8 +16,8 @@ title: Just Do It! - About
 
     <h3>Interests</h3>
     <ul>
+		<li>Meta-Learning</li>
         <li>Deep Generative Models</li>
-        <li>Self-Supervised Learning</li>
     </ul>
 
     <h3>Skills</h3>

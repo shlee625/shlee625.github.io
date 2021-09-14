@@ -27,6 +27,7 @@ title: Just Do It! - About
     </ul>
 
     <h3>Publications</h3>
+	<h4>&nbsp;&nbsp;&nbsp;Meta-Learning</h4>
     <ul>
         <li>Contextual Gradient Scaling for Few-Shot Learning 
             <font size='3'>
@@ -35,7 +36,9 @@ title: Just Do It! - About
                 WACV 2022 (to appear)
             </font>
         </li>
-        <br>
+	</ul>
+	<h4>&nbsp;&nbsp;&nbsp;Pruning</h4>
+	<ul>
         <li>Channel Pruning via Gradient of Mutual Information for Light-Weight Convolutional Neural Networks
         <font size='3'><a href="https://ieeexplore.ieee.org/abstract/document/9190803" target="_blank">[paper]</a> <br>
             <i>Min Kyu Lee, Seunghyun Lee, <b>Sang Hyuk Lee</b>, and Byung Cheol Song</i> <br>
